@@ -131,5 +131,5 @@ dmypy.json
 # Ignore Windows desktop files
 *.ini
 
-#Ignore MacOS desktop files
+# Ignore MacOS desktop files
 .DS_Store
